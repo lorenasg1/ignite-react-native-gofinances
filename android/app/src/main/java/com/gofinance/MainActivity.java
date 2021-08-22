@@ -1,4 +1,4 @@
-package com.gofinance;
+package com.gofinances;
 
 import android.os.Bundle;
 
