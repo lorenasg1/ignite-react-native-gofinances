@@ -3,7 +3,7 @@
 
 App to manage personal finances.
 
-[Link](https://www.figma.com/file/3Zn05QTHOWk9ABzkkZ1u0D/GoFinances-Ignite-Copy?node-id=0%3A1) para o layout do projeto no Figma.
+[Link](https://www.figma.com/file/3Zn05QTHOWk9ABzkkZ1u0D/GoFinances-Ignite-Copy?node-id=0%3A1) to the project layout on Figma.
 
 
 
